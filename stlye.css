@@ -1,0 +1,41 @@
+body {
+    font-family: Arial;
+    margin: 30px;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: blue;
+}
+
+hr {
+    border: 1px solid lightgray;
+}
+
+table {
+    width: 100%;
+}
+
+td:last-child {
+    text-align: right;
+}
+
+img {
+    border-radius: 10px;
+}
+
+p {
+    font-size: 18px;
+}
+
+li {
+    font-size: 18px;
+    margin: 5px;
+}
